@@ -1,0 +1,55 @@
+27/05 06:14:04 @ alice_buffer --> 966
+27/05 06:14:04 @ sent_photons_stream --> [393, 253, 320, 0]
+27/05 06:14:04 @ secondary_buffer --> 966
+27/05 06:14:04 @ unacknowledged_photons_stream --> [105, 119, 158, 0]
+27/05 06:14:04 @ secondary_buffer --> 382
+27/05 06:14:04 @ darth_targets --> []
+27/05 06:14:04 @ eve_targets --> []
+27/05 06:14:04 @ paused_paths --> set()
+27/05 06:14:04 @ stream_qber --> [1.9417475728155338, 0, 0, 0]
+27/05 06:14:20 @ alice_key_size --> 309
+
+27/05 06:15:19 @ alice_buffer --> 918
+27/05 06:15:19 @ sent_photons_stream --> [368, 230, 320, 0]
+27/05 06:15:19 @ secondary_buffer --> 918
+27/05 06:15:19 @ unacknowledged_photons_stream --> [109, 104, 152, 0]
+27/05 06:15:19 @ secondary_buffer --> 365
+27/05 06:15:19 @ darth_targets --> []
+27/05 06:15:19 @ eve_targets --> []
+27/05 06:15:19 @ paused_paths --> set()
+27/05 06:15:19 @ stream_qber --> [1.0752688172043012, 0, 0, 0]
+27/05 06:15:33 @ alice_key_size --> 589
+
+27/05 06:16:32 @ alice_buffer --> 899
+27/05 06:16:32 @ sent_photons_stream --> [368, 211, 320, 0]
+27/05 06:16:32 @ secondary_buffer --> 899
+27/05 06:16:32 @ unacknowledged_photons_stream --> [112, 94, 169, 0]
+27/05 06:16:32 @ secondary_buffer --> 375
+27/05 06:16:32 @ darth_targets --> []
+27/05 06:16:32 @ eve_targets --> []
+27/05 06:16:32 @ paused_paths --> set()
+27/05 06:16:32 @ stream_qber --> [3.571428571428571, 0, 0, 0]
+27/05 06:16:46 @ alice_key_size --> 842
+
+27/05 06:17:43 @ alice_buffer --> 883
+27/05 06:17:43 @ sent_photons_stream --> [368, 195, 320, 0]
+27/05 06:17:43 @ secondary_buffer --> 883
+27/05 06:17:43 @ unacknowledged_photons_stream --> [94, 86, 176, 0]
+27/05 06:17:43 @ secondary_buffer --> 356
+27/05 06:17:43 @ darth_targets --> []
+27/05 06:17:43 @ eve_targets --> []
+27/05 06:17:43 @ paused_paths --> set()
+27/05 06:17:43 @ stream_qber --> [0.0, 9.090909090909092, 0, 0]
+27/05 06:17:58 @ alice_key_size --> 1092
+
+27/05 07:04:48 @ alice_buffer --> 861
+27/05 07:04:48 @ sent_photons_stream --> [346, 195, 320, 0]
+27/05 07:04:48 @ secondary_buffer --> 861
+27/05 07:04:48 @ unacknowledged_photons_stream --> [95, 93, 173, 0]
+27/05 07:04:48 @ secondary_buffer --> 361
+27/05 07:04:48 @ darth_targets --> []
+27/05 07:04:48 @ eve_targets --> []
+27/05 07:04:48 @ paused_paths --> set()
+27/05 07:04:48 @ stream_qber --> [2.3529411764705883, 0, 0, 0]
+27/05 07:05:02 @ alice_key_size --> 1349
+

@@ -1,0 +1,54 @@
+21/05 20:29:03 @ bob_buffer_size --> 626
+21/05 20:29:03 @ bob_key_len --> 323
+
+21/05 20:29:45 @ bob_buffer_size --> 610
+21/05 20:29:45 @ bob_key_len --> 633
+
+21/05 20:30:20 @ bob_buffer_size --> 627
+21/05 20:30:20 @ bob_key_len --> 956
+
+21/05 20:31:00 @ bob_buffer_size --> 624
+21/05 20:31:00 @ bob_key_len --> 1267
+
+21/05 20:31:37 @ bob_buffer_size --> 625
+21/05 20:31:37 @ bob_key_len --> 1574
+
+21/05 20:32:16 @ bob_buffer_size --> 616
+21/05 20:32:16 @ bob_key_len --> 1914
+
+21/05 20:32:55 @ bob_buffer_size --> 619
+21/05 20:32:55 @ bob_key_len --> 2215
+
+21/05 20:33:35 @ bob_buffer_size --> 614
+21/05 20:33:35 @ bob_key_len --> 2528
+
+21/05 20:34:14 @ bob_buffer_size --> 610
+21/05 20:34:14 @ bob_key_len --> 2844
+
+21/05 20:34:53 @ bob_buffer_size --> 615
+21/05 20:34:53 @ bob_key_len --> 3141
+
+21/05 20:35:35 @ bob_buffer_size --> 658
+21/05 20:35:35 @ bob_key_len --> 3473
+
+21/05 20:36:18 @ bob_buffer_size --> 628
+21/05 20:36:19 @ bob_key_len --> 3796
+
+21/05 20:37:01 @ bob_buffer_size --> 613
+21/05 20:37:01 @ bob_key_len --> 4095
+
+21/05 20:37:42 @ bob_buffer_size --> 645
+21/05 20:37:42 @ bob_key_len --> 4422
+
+21/05 20:38:26 @ bob_buffer_size --> 624
+21/05 20:38:26 @ bob_key_len --> 4736
+
+21/05 20:39:10 @ bob_buffer_size --> 643
+21/05 20:39:10 @ bob_key_len --> 5060
+
+21/05 20:39:51 @ bob_buffer_size --> 617
+21/05 20:39:51 @ bob_key_len --> 5362
+
+21/05 20:40:34 @ bob_buffer_size --> 646
+21/05 20:40:34 @ bob_key_len --> 5677
+

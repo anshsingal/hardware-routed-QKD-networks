@@ -1,0 +1,18 @@
+21/05 12:19:13 @ bob_buffer_size --> 396
+21/05 12:19:13 @ bob_key_len --> 195
+
+21/05 12:20:56 @ bob_buffer_size --> 386
+21/05 12:20:56 @ bob_key_len --> 373
+
+21/05 12:22:24 @ bob_buffer_size --> 372
+21/05 12:22:24 @ bob_key_len --> 582
+
+21/05 12:24:05 @ bob_buffer_size --> 339
+21/05 12:24:05 @ bob_key_len --> 735
+
+21/05 12:26:11 @ bob_buffer_size --> 323
+21/05 12:26:11 @ bob_key_len --> 897
+
+21/05 12:27:52 @ bob_buffer_size --> 342
+21/05 12:27:52 @ bob_key_len --> 1068
+

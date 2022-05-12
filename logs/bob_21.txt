@@ -1,0 +1,75 @@
+24/05 19:04:10 @ bob_buffer_size --> 800
+24/05 19:04:10 @ bob_key_len --> 416
+
+24/05 19:05:01 @ bob_buffer_size --> 804
+24/05 19:05:01 @ bob_key_len --> 810
+
+24/05 19:06:17 @ bob_buffer_size --> 813
+24/05 19:06:17 @ bob_key_len --> 1212
+
+24/05 19:07:24 @ bob_buffer_size --> 794
+24/05 19:07:24 @ bob_key_len --> 1611
+
+24/05 19:08:47 @ bob_buffer_size --> 810
+24/05 19:08:47 @ bob_key_len --> 1993
+
+24/05 19:10:10 @ bob_buffer_size --> 791
+24/05 19:10:10 @ bob_key_len --> 2385
+
+24/05 19:11:27 @ bob_buffer_size --> 803
+24/05 19:11:27 @ bob_key_len --> 2774
+
+24/05 19:12:49 @ bob_buffer_size --> 800
+24/05 19:12:49 @ bob_key_len --> 3162
+
+24/05 19:13:59 @ bob_buffer_size --> 756
+24/05 19:13:59 @ bob_key_len --> 3537
+
+24/05 19:15:03 @ bob_buffer_size --> 733
+24/05 19:15:03 @ bob_key_len --> 3902
+
+24/05 19:16:10 @ bob_buffer_size --> 788
+24/05 19:16:10 @ bob_key_len --> 4301
+
+24/05 19:17:39 @ bob_buffer_size --> 746
+24/05 19:17:39 @ bob_key_len --> 4682
+
+24/05 19:18:53 @ bob_buffer_size --> 728
+24/05 19:18:53 @ bob_key_len --> 5039
+
+24/05 19:19:49 @ bob_buffer_size --> 623
+24/05 19:19:49 @ bob_key_len --> 5351
+
+24/05 19:20:52 @ bob_buffer_size --> 557
+24/05 19:20:52 @ bob_key_len --> 5652
+
+24/05 19:22:26 @ bob_buffer_size --> 573
+24/05 19:22:26 @ bob_key_len --> 5945
+
+24/05 19:23:53 @ bob_buffer_size --> 542
+24/05 19:23:53 @ bob_key_len --> 6212
+
+24/05 19:25:21 @ bob_buffer_size --> 561
+24/05 19:25:21 @ bob_key_len --> 6475
+
+24/05 19:26:58 @ bob_buffer_size --> 573
+24/05 19:26:58 @ bob_key_len --> 6776
+
+24/05 19:28:41 @ bob_buffer_size --> 555
+24/05 19:28:41 @ bob_key_len --> 7049
+
+24/05 19:30:36 @ bob_buffer_size --> 542
+24/05 19:30:36 @ bob_key_len --> 7325
+
+24/05 19:32:23 @ bob_buffer_size --> 554
+24/05 19:32:23 @ bob_key_len --> 7604
+
+24/05 19:34:03 @ bob_buffer_size --> 527
+24/05 19:34:04 @ bob_key_len --> 7890
+
+24/05 19:35:48 @ bob_buffer_size --> 499
+24/05 19:35:48 @ bob_key_len --> 8158
+
+24/05 19:37:47 @ bob_buffer_size --> 459
+24/05 19:37:47 @ bob_key_len --> 8384
+

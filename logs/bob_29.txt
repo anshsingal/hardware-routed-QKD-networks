@@ -1,0 +1,75 @@
+27/05 05:56:02 @ bob_buffer_size --> 1407
+27/05 05:56:02 @ bob_key_len --> 710
+
+27/05 05:56:49 @ bob_buffer_size --> 1414
+27/05 05:56:50 @ bob_key_len --> 1412
+
+27/05 05:57:37 @ bob_buffer_size --> 1326
+27/05 05:57:37 @ bob_key_len --> 2079
+
+27/05 05:58:23 @ bob_buffer_size --> 1416
+27/05 05:58:23 @ bob_key_len --> 2777
+
+27/05 05:59:06 @ bob_buffer_size --> 1266
+27/05 05:59:06 @ bob_key_len --> 3391
+
+27/05 05:59:53 @ bob_buffer_size --> 1221
+27/05 05:59:53 @ bob_key_len --> 4002
+
+27/05 06:00:36 @ bob_buffer_size --> 1141
+27/05 06:00:36 @ bob_key_len --> 4613
+
+27/05 06:01:25 @ bob_buffer_size --> 1097
+27/05 06:01:25 @ bob_key_len --> 5151
+
+27/05 06:02:16 @ bob_buffer_size --> 1107
+27/05 06:02:16 @ bob_key_len --> 5697
+
+27/05 06:03:13 @ bob_buffer_size --> 1077
+27/05 06:03:13 @ bob_key_len --> 6230
+
+27/05 06:04:01 @ bob_buffer_size --> 1064
+27/05 06:04:01 @ bob_key_len --> 6776
+
+27/05 06:04:42 @ bob_buffer_size --> 1075
+27/05 06:04:42 @ bob_key_len --> 7321
+
+27/05 06:05:33 @ bob_buffer_size --> 1003
+27/05 06:05:33 @ bob_key_len --> 7838
+
+27/05 06:06:29 @ bob_buffer_size --> 912
+27/05 06:06:29 @ bob_key_len --> 8298
+
+27/05 06:07:27 @ bob_buffer_size --> 907
+27/05 06:07:27 @ bob_key_len --> 8750
+
+27/05 06:08:21 @ bob_buffer_size --> 824
+27/05 06:08:21 @ bob_key_len --> 9143
+
+27/05 06:09:16 @ bob_buffer_size --> 786
+27/05 06:09:16 @ bob_key_len --> 9539
+
+27/05 06:10:11 @ bob_buffer_size --> 739
+27/05 06:10:11 @ bob_key_len --> 9914
+
+27/05 06:11:18 @ bob_buffer_size --> 782
+27/05 06:11:18 @ bob_key_len --> 10293
+
+27/05 06:12:32 @ bob_buffer_size --> 810
+27/05 06:12:32 @ bob_key_len --> 10686
+
+27/05 06:13:42 @ bob_buffer_size --> 754
+27/05 06:13:42 @ bob_key_len --> 11080
+
+27/05 06:15:06 @ bob_buffer_size --> 766
+27/05 06:15:06 @ bob_key_len --> 11457
+
+27/05 06:16:19 @ bob_buffer_size --> 693
+27/05 06:16:19 @ bob_key_len --> 11804
+
+27/05 06:17:29 @ bob_buffer_size --> 701
+27/05 06:17:29 @ bob_key_len --> 12159
+
+27/05 07:04:34 @ bob_buffer_size --> 644
+27/05 07:04:34 @ bob_key_len --> 12497
+

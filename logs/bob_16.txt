@@ -1,0 +1,81 @@
+24/05 17:33:54 @ bob_buffer_size --> 333
+24/05 17:33:54 @ bob_key_len --> 173
+
+24/05 17:35:26 @ bob_buffer_size --> 346
+24/05 17:35:26 @ bob_key_len --> 329
+
+24/05 17:35:52 @ bob_buffer_size --> 339
+24/05 17:35:52 @ bob_key_len --> 503
+
+24/05 17:36:48 @ bob_buffer_size --> 365
+24/05 17:36:48 @ bob_key_len --> 669
+
+24/05 17:38:01 @ bob_buffer_size --> 343
+24/05 17:38:01 @ bob_key_len --> 848
+
+24/05 17:39:15 @ bob_buffer_size --> 317
+24/05 17:39:15 @ bob_key_len --> 1009
+
+24/05 17:40:17 @ bob_buffer_size --> 316
+24/05 17:40:17 @ bob_key_len --> 1150
+
+24/05 17:41:18 @ bob_buffer_size --> 307
+24/05 17:41:18 @ bob_key_len --> 1301
+
+24/05 17:42:23 @ bob_buffer_size --> 230
+24/05 17:42:23 @ bob_key_len --> 1424
+
+24/05 17:43:19 @ bob_buffer_size --> 202
+24/05 17:43:20 @ bob_key_len --> 1526
+
+24/05 17:44:23 @ bob_buffer_size --> 204
+24/05 17:44:23 @ bob_key_len --> 1635
+
+24/05 17:45:30 @ bob_buffer_size --> 202
+24/05 17:45:30 @ bob_key_len --> 1735
+
+24/05 17:46:30 @ bob_buffer_size --> 198
+24/05 17:46:30 @ bob_key_len --> 1822
+
+24/05 17:47:35 @ bob_buffer_size --> 228
+24/05 17:47:35 @ bob_key_len --> 1930
+
+24/05 17:48:35 @ bob_buffer_size --> 231
+24/05 17:48:35 @ bob_key_len --> 2043
+
+24/05 17:49:34 @ bob_buffer_size --> 226
+24/05 17:49:34 @ bob_key_len --> 2171
+
+24/05 17:50:33 @ bob_buffer_size --> 238
+24/05 17:50:33 @ bob_key_len --> 2285
+
+24/05 17:51:26 @ bob_buffer_size --> 212
+24/05 17:51:26 @ bob_key_len --> 2386
+
+24/05 17:52:25 @ bob_buffer_size --> 201
+24/05 17:52:25 @ bob_key_len --> 2488
+
+24/05 17:53:23 @ bob_buffer_size --> 187
+24/05 17:53:23 @ bob_key_len --> 2577
+
+24/05 17:54:22 @ bob_buffer_size --> 191
+24/05 17:54:22 @ bob_key_len --> 2676
+
+24/05 17:55:20 @ bob_buffer_size --> 166
+24/05 17:55:20 @ bob_key_len --> 2768
+
+24/05 17:56:19 @ bob_buffer_size --> 170
+24/05 17:56:19 @ bob_key_len --> 2834
+
+24/05 17:57:16 @ bob_buffer_size --> 158
+24/05 17:57:16 @ bob_key_len --> 2908
+
+24/05 17:58:14 @ bob_buffer_size --> 161
+24/05 17:58:14 @ bob_key_len --> 2987
+
+24/05 17:59:14 @ bob_buffer_size --> 159
+24/05 17:59:14 @ bob_key_len --> 3066
+
+24/05 18:00:11 @ bob_buffer_size --> 158
+24/05 18:00:11 @ bob_key_len --> 3134
+
